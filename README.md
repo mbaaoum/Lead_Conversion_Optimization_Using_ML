@@ -7,6 +7,11 @@ The EdTech industry has experienced significant growth, particularly during the 
 # Project Overview:
 In this project, I analyzed leads data for ExtraaLearn and developed a machine learning model to predict lead conversion likelihood. I identified key factors influencing lead conversion and created detailed profiles of high-converting leads. Additionally, I provided actionable insights and recommendations to enhance lead engagement, optimize marketing channels, improve profile completion rates, and target specific occupations more effectively. These recommendations included deploying the model within the CRM system, ensuring continuous improvement through regular feedback, and optimizing resource allocation based on model predictions. These strategies aimed to improve ExtraaLearn's marketing effectiveness and overall conversion rates.
 
+# Files in This Repository
+- `Mbaaoum_Lead_Conversion_Analysis_ExtraaLearn..ipynb`: Jupyter Notebook containing the analysis and model development.
+- `ExtraaLearn.csv`: Dataset used for the analysis.
+- `Mbaaoum_Lead_Conversion_Report_ExtraaLearn.html`: Rendered HTML report of the analysis.
+  
 # Data Description
 The data contains the different attributes of leads and their interaction details with ExtraaLearn. The detailed data dictionary is given below.
 
